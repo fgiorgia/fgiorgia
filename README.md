@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Giorgia 👋
 #### BSc in Psychology. Passionate in Human Sciences, Tech and Statistics / Data Analysis
 
 ## Education
