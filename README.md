@@ -2,12 +2,20 @@
 #### BSc in Psychology. Passionate in Human Sciences, Tech and Statistics / Data Analysis
 
 ## Education
+
+### 📊📈 ReDI School of Digital Integration Malmö 
+* **Final project**: https://github.com/ReDI-Data-Analytics-2023/final-project
+  
+🚀 Intensive Data Analytics program: hands-on applications and gaining expertise for today's data-driven landscape. Python, SQL and Power BI. Selected as the few to join a highly challenging Data Analytics project in conjunction with Computer Vision. 
+🤝 Thrived in a collaborative, cross-functional environment, actively participating in workshops and design sprints to enhance teamwork, communication skills, and network with industry experts.
+👩‍💻 Mastered industry-standard tools like Python (NumPy, Pandas, Scikit-Learn) and SQL for effective data manipulation and analysis. Collaboration tools like GitHub and Google Colab (Python Notebook). AI-assisted learning and coding using ChatGPT and Copilot on VS Code.
+
 ### 🎓💁‍♀ University of Cagliari: BSc of Psychological Sciences and Technique
 I’m close to graduating, I completed most of my courses and I have a high GPA. In particular, I obtained the highest grade in (among others) Psychometry and Advanced Psychometry, during which I also helped fellow students to improve their understanding of the subject. I also developed automatic spreadsheets that produce results, intermediate steps and charts of statistical data.
 
 ### 🇬🇧👩‍🏫 English Language Advanced Training 
 *January 2019 - Ongoing*<br>
-I practice English with native teachers from different countries of the English speaking world. This let me acquire great fluency and pronunciation and a job-grade level of English, which allowed me to start an English teaching side job.
+I practice English with native teachers from different countries of the English-speaking world. This let me acquire great fluency and pronunciation and a job-grade level of English, which allowed me to start an English teaching side job.
 
 ### 📜👩‍🔬 Scientific Lyceum Diploma 
 Being very fond of mathematical, scientific and humanistic studies, I was able to complete the last-year course of Math in just 18 hours and get the maximum grade.
@@ -38,7 +46,7 @@ I nannied and took care of children from 0 to 8 years old. I assisted them with 
 
 ## Skills 🤹
  - Deep Psychology knowledge, including Social Psychology, Neuroscience and Cognitive Psychology.
- - Good knowledge of Psychometry, Statistical Methods commonly applied in Psychological and Social research
+ - Good knowledge of Psychometry, Statistical Methods commonly applied in Psychological and Social Research
  - Extensive knowledge of Excel, Jamovi and G*Power.
  - Good knowledge also of IBM SPSS, MS Word and MS PowerPoint, MS Teams, Zoom, Adobe Connect, OBS.
  - Basic knowledge of Python programming and creating documents in LaTeX.
