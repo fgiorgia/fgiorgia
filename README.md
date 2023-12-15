@@ -12,6 +12,7 @@
 
 👩‍💻 Mastered industry-standard tools like Python (NumPy, Pandas, Scikit-Learn) and SQL for effective data manipulation and analysis. Collaboration tools like GitHub and Google Colab (Python Notebook). AI-assisted learning and coding using ChatGPT and Copilot on VS Code.
 
+
 ### 🎓💁‍♀ University of Cagliari: BSc of Psychological Sciences and Technique
 I’m close to graduating, I completed most of my courses and I have a high GPA. In particular, I obtained the highest grade in (among others) Psychometry and Advanced Psychometry, during which I also helped fellow students to improve their understanding of the subject. I also developed automatic spreadsheets that produce results, intermediate steps and charts of statistical data.
 
