@@ -6,8 +6,10 @@
 ### 📊📈 ReDI School of Digital Integration Malmö 
 * **Final project**: https://github.com/ReDI-Data-Analytics-2023/final-project
   
-🚀 Intensive Data Analytics program: hands-on applications and gaining expertise for today's data-driven landscape. Python, SQL and Power BI. Selected as the few to join a highly challenging Data Analytics project in conjunction with Computer Vision. 
+🚀 Intensive **Data Analytics** program: hands-on applications and gaining expertise for today's data-driven landscape. Python, SQL and Power BI. Selected as the few to join a highly challenging Data Analytics project in conjunction with Computer Vision. 
+
 🤝 Thrived in a collaborative, cross-functional environment, actively participating in workshops and design sprints to enhance teamwork, communication skills, and network with industry experts.
+
 👩‍💻 Mastered industry-standard tools like Python (NumPy, Pandas, Scikit-Learn) and SQL for effective data manipulation and analysis. Collaboration tools like GitHub and Google Colab (Python Notebook). AI-assisted learning and coding using ChatGPT and Copilot on VS Code.
 
 ### 🎓💁‍♀ University of Cagliari: BSc of Psychological Sciences and Technique
