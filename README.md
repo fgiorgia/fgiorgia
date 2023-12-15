@@ -25,7 +25,7 @@ Being very fond of mathematical, scientific and humanistic studies, I was able t
 
 ## Work Experience
 ### 🇬🇧👩‍🏫 English Teacher 
-*November 2020 - Ongoing*<br>
+*November 2020 - February 2022*<br>
 I teach English to fellow students, starting from the fundamentals of the language up to being able to have simple but fluent everyday conversations in English. I also create lessons’ material like slides, exercises and charts to aid the learning process.
 
 ### 👩‍💻📖 Secretary and Magazine Designer 
