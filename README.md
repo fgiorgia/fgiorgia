@@ -21,9 +21,15 @@ I completed most of my courses and I have a high GPA. In particular, I obtained 
 I practice English with native teachers from different countries of the English-speaking world. This let me acquire great fluency and pronunciation and a job-grade level of English, which allowed me to start an English teaching side job.
 
 ### 📜👩‍🔬 Scientific Lyceum Diploma 
-Being very fond of mathematical, scientific and humanistic studies, I was able to complete the last-year course of Math in just 18 hours and get the maximum grade.
+Being very fond of mathematical, scientific, and humanistic studies, I was able to complete the last-year course of Math in just 18 hours and get the maximum grade.
 
 ## Work Experience
+### 📊📈 Data Analyst Intern at [ReFab Lab](https://www.refablab.com/)
+*January 2024 - Ongoing*<be>
+- Develop, test, and debug ETL pipelines
+- Analyze web and social impact to enhance visibility, targeting relevant demographics and customers’ behavior
+- Data-driven evaluation of workshops and projects for effectiveness and sustainability
+
 ### 🇬🇧👩‍🏫 English Teacher 
 *November 2020 - February 2022*<br>
 I teach English to fellow students, starting from the fundamentals of the language up to being able to have simple but fluent everyday conversations in English. I also create lessons’ material like slides, exercises and charts to aid the learning process.
