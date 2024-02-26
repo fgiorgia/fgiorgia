@@ -1,5 +1,5 @@
 ### Hi there, I'm Giorgia 👋
-#### Data Analyst - Python | SQL | LLM
+#### Data Analyst - Python | SQL | Statistics | LLM
 
 ## Education
 
